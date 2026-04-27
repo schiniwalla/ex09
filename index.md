@@ -16,11 +16,11 @@ In this project, I annalyzed a survey sent out by the COMP110 team in order to m
 This graph shows the a scatterplot of class percieved class difficulty and desire to have pre-lecture videos. We are showing that there is a positive correlation between difficulty rating and and desire to have pre-class videos.
 
 ### Graph 2
-<img src="static/imgs/graph2.png" alt="Image of Bar Chart Visualization."width="500"/>
+<img src="static/imgs/graph2.png" alt="Image of Bar Chart Visualization." width="500"/>
 This graph is a bar graph that helps to show the desire for students to have pre-class videos and how difficult they view COMP110. 
 
 ### Graph 3
-<img src="static/imgs/graph3.png" alt="Image of Line Graph Visualization."width="500"/>
+<img src="static/imgs/graph3.png" alt="Image of Line Graph Visualization." width="500"/>
 This graph shows a line graph demonstrating the positve correlation between students thinking the class was difficult and wanting the pre-class videos. 
 
 ## Conclusion
