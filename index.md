@@ -2,9 +2,9 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-# Data Analysis Project
+# EX09 Samay's Website
 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Project Summary
 In this project, I annalyzed a survey sent out by the COMP110 team in order to make improvemnts to the course. In the project we annalyzed the percived class difficulty against the desire for students to have pre lecture videos available to watch. This project allowed us to use many different graphing formats to explore trends and show that most students who feel the class is difficult would also like pre lecture videos to potentially help reinforce gaps in knowledge. 
@@ -12,15 +12,15 @@ In this project, I annalyzed a survey sent out by the COMP110 team in order to m
 ## Visualizations
 
 ### Graph 1
-<img src="/static/imgs/graph1.png" width="500"/>
+<img src="static/imgs/graph1.png" alt="Image of Scatter PLot Visualization." width="500"/>
 This graph shows the a scatterplot of class percieved class difficulty and desire to have pre-lecture videos. We are showing that there is a positive correlation between difficulty rating and and desire to have pre-class videos.
 
 ### Graph 2
-<img src="/static/imgs/graph2.png" width="500"/>
+<img src="static/imgs/graph2.png" alt="Image of Bar Chart Visualization."width="500"/>
 This graph is a bar graph that helps to show the desire for students to have pre-class videos and how difficult they view COMP110. 
 
 ### Graph 3
-<img src="/static/imgs/graph3.png" width="500"/>
+<img src="static/imgs/graph3.png" alt="Image of Line Graph Visualization."width="500"/>
 This graph shows a line graph demonstrating the positve correlation between students thinking the class was difficult and wanting the pre-class videos. 
 
 ## Conclusion
